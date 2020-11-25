@@ -28,14 +28,19 @@ body {
 
 
 .project-img {
-    width: 350px;
-    height: 350px;
+    width: 400px;
+    height: 400px;
+}
+
+#main-footer {
+    width: 100%;
 }
 
 
 
-@media(min-width:1199px) {
+/* @media(min-width:900px) {
+
     .port-item {
         padding: 3em !important;
     }
-}
+} */
